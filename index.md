@@ -16,11 +16,7 @@ Data is available from many sources across a wide variety of disciplines, and wi
 
 Librarians are always available to help you locate resources, including datasets that will enrich your work.  Email [freedmancenter@case.edu](mailto:freedmancenter@case.edu) to get in touch with the Digital Scholarship Team at the Kelvin Smith Library.  We can help you locate essential daat to support your research, or connect you with someone who can.
 
-### Do I really need to web scrape?
-
- If you can find a relevant dataset, it will almost always be easier to use than something scraped from the web.  The data from web scraping usually need significant parsing and cleaning in order to be useful.  
-
-So before you resort to web scraping, see if you can locate the data eleswhere. Contacting a research Librarian is an excellent first step.  Case Western also has a research data index here: <a href ="link!">Data Index</a> 
+Case Western is also building a research data index here: <a href ="link!">COMING SOON!</a> 
 
 
 ## Project #1: Making an HTTP Request and Receiving a Response
