@@ -2,8 +2,6 @@
 
 When you first encounter a dataset that may be of use in your research, you will need a strategy to determine the content and quality of that dataset to see if can be of use to you.  Not all data (far too little) comes with comprehensive documentation and metadata, or documentation that is kept up to date.  This tutorial will walk you through the process of exploring a dataset using python and the pandas library.  
 
-
-
 ### Digital Workshop Series
 You can find the complete list of Digital Scholarhsip Workshops here: You can find a directory of the currently available tutorials here:  [https://librarybeales.github.io/dsworkshops/](https://librarybeales.github.io/dsworkshops/)
 
@@ -12,18 +10,9 @@ You can find the complete list of Digital Scholarhsip Workshops here: You can fi
 Constellate is available to Case Western students, staff, and faculty.  To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a>.
 
 If you are not part of Case you can launch these tutorials using the Launch Binder button.  ![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)  Any changes you make or work you complete will be deleted when closing the tab or window.  You can, however, download a copy of file you've been working in before closing the browser.  
+## Where do I find data?
 
-## Where does the data come from?
-
-The content on the web is an unbelievably rich resource.  However, the information available can be difficult to collect and organize manually.  
-
-For example, if you were interested in analyzing how people communicate on social media about the NASDAQ, you could manually search for posts tagged with #NASDAQ, copy and paste them or screen shot them, and then begin manually organizing the user names, likes, tags, text content, etc.  You would be limited in the sample size you could analyze by the amount of labor required.
-
-If, however, you built a web scraper to crawl a site and capture every post with a #NASDAQ tag, you'd be able to capture a much larger sample size and save the data in an accessible format for future researchers.  Analysis of that data, also using python, would allow you to quickly see who posts the most, which posts have the most likes, what stock tickers are mentioned most frequestly in a given time span, etc.  
-
-Additionally, the content on the web is constantly changing.  If you are basing your research on information from the web, it would be a good idea to store that infomation somewhere yourself, so that those who are evaluating your research can access the identical information.
-
-In short, web scraping can make the endless data available online accessible, useful and permanent.
+There are so many resouces for data. Getting into this question here would derail the entire python tutorial, but it is an important one to address.  Finding data is a skill that you will develop as you gain expertise in your subject area.  Librarians are 
 
 ### Do I really need to web scrape?
 
