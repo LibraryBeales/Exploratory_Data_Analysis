@@ -1,17 +1,8 @@
-# Web Scraping
+# Exploratory Data Analysis in Python
 
-Web scraping is a technique used to collect information from the internet and save it so it can be analyzed as needed. Web scraping is usually done after a research question has been defined and will be part of the data gathering phase of the research lifecycle.
+When you first encounter a dataset that may be of use in your research, you will need a strategy to determine the content and quality of that dataset to see if can be of use to you.  Not all data (far too little) comes with comprehensive documentation and metadata, or documentation that is kept up to date.  This tutorial will walk you through the process of exploring a dataset using python and the pandas library.  
 
-This course will walk you through using several different strategies and several different python libraries to scrape data from the web and analyze it.  We will learn:
 
-- What web scraping is and why we would use web scraping to gather data
-- About the HTTP request and reponse process that is the foundation of the web
-- How to make requests and save the response from the web server(s)
-- How to analyze the structure of web pages so we can scrape specific data
-- How python scripts can be constructed to target specific data structures on web pages
-- How to direct the web scraper to navigate through a series of pages and scrape each one
-
-The content on the web is incredibly diverse, so web scraping scripts are usually custom built to target specific web sites and data.  These example projects will get you familiar with the various process and possibilities of web scraping so you can begin building a custom web scraper to target the web sites and information you are interested in.
 
 ### Digital Workshop Series
 You can find the complete list of Digital Scholarhsip Workshops here: You can find a directory of the currently available tutorials here:  [https://librarybeales.github.io/dsworkshops/](https://librarybeales.github.io/dsworkshops/)
@@ -20,11 +11,9 @@ You can find the complete list of Digital Scholarhsip Workshops here: You can fi
 
 Constellate is available to Case Western students, staff, and faculty.  To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a>.
 
-If you are not part of Case you can launch these tutorials using the Launch Binder button.  ![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)  
+If you are not part of Case you can launch these tutorials using the Launch Binder button.  ![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)  Any changes you make or work you complete will be deleted when closing the tab or window.  You can, however, download a copy of file you've been working in before closing the browser.  
 
-Any changes you make or work you complete will be deleted when closing the tab or window.  You can, however, download a copy of file you've been working in before closing the browser.  
-
-## Why scrape?  And when not to...
+## Where does the data come from?
 
 The content on the web is an unbelievably rich resource.  However, the information available can be difficult to collect and organize manually.  
 
