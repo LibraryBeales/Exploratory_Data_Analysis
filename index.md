@@ -10,9 +10,11 @@ You can find the complete list of Digital Scholarhsip Workshops here: You can fi
 Constellate is available to Case Western students, staff, and faculty.  To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a>.
 
 If you are not part of Case you can launch these tutorials using the Launch Binder button.  ![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)  Any changes you make or work you complete will be deleted when closing the tab or window.  You can, however, download a copy of file you've been working in before closing the browser.  
-## Where do I find data?
+## So, where do I find data?
 
-There are so many resouces for data. Getting into this question here would derail the entire python tutorial, but it is an important one to address.  Finding data is a skill that you will develop as you gain expertise in your subject area.  Librarians are 
+There are so many resouces for data. Getting into this question here would derail the entire python tutorial, but it is an important one to address.  Finding data is a skill that you will develop as you gain expertise in your subject area.  Learning the exploratory data analysis process is a part of that.  
+
+Librarians are always available to help you locate resources, including datasets that will enrich your work.  Email [freedmancenter@case.edu](mailto:freedmancenter@case.edu) to get in touch with the Digital Scholarship team at the Kelvin Smith Library.
 
 ### Do I really need to web scrape?
 
