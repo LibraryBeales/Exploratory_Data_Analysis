@@ -12,13 +12,13 @@ Constellate is available to Case Western students, staff, and faculty.  To use C
 If you are not part of Case you can launch these tutorials using the Launch Binder button.  ![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)  Any changes you make or work you complete will be deleted when closing the tab or window.  You can, however, download a copy of file you've been working in before closing the browser.  
 ## So, where do I find data?
 
-There are so many resouces for data. Getting into this question here would derail the entire python tutorial, but it is an important one to address.  Finding data is a skill that you will develop as you gain expertise in your subject area.  Learning the exploratory data analysis process is a part of that.  
+Data is available from many sources across a wide variety of disciplines, and with a wide range of quality and usefulness. Getting into the question of, "Where to find data?", here would derail the entire python tutorial, but it is an important one to address.  Finding data is a skill that you will develop as you gain expertise in your subject area.  Learning the exploratory data analysis process is a part of that.  
 
-Librarians are always available to help you locate resources, including datasets that will enrich your work.  Email [freedmancenter@case.edu](mailto:freedmancenter@case.edu) to get in touch with the Digital Scholarship team at the Kelvin Smith Library.
+Librarians are always available to help you locate resources, including datasets that will enrich your work.  Email [freedmancenter@case.edu](mailto:freedmancenter@case.edu) to get in touch with the Digital Scholarship Team at the Kelvin Smith Library.  We can help you locate essential daat to support your research, or connect you with someone who can.
 
 ### Do I really need to web scrape?
 
-Data is available from many sources across a wide variety of disciplines.  If you can find a relevant dataset, it will almost always be easier to use than something scraped from the web.  The data from web scraping usually need significant parsing and cleaning in order to be useful.  
+ If you can find a relevant dataset, it will almost always be easier to use than something scraped from the web.  The data from web scraping usually need significant parsing and cleaning in order to be useful.  
 
 So before you resort to web scraping, see if you can locate the data eleswhere. Contacting a research Librarian is an excellent first step.  Case Western also has a research data index here: <a href ="link!">Data Index</a> 
 
