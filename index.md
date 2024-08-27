@@ -19,17 +19,17 @@ Librarians are always available to help you locate resources, including datasets
 Case Western is also building a research data index here: <a href ="link!">COMING SOON!</a> 
 
 
-## Project #1: Making an HTTP Request and Receiving a Response
+## Project #1: Importing Data and 
 
-This first project will use the `requests` package to introduce the basic web scraping workflow.  All the lessons on this page use <a href="https://books.toscrape.com/">Books to Scrape</a> as the example website.  As you can probably tell from the name, this is a website set up specifically for practicing web scraping.
+This first project will use basic python and the `pandas` package to introduce the data import process and the early exploration process.  All the lessons on this page use the ______ dataset.  
 
 In this project you will:
-1. Send a request to a web server.
-2. Check for a response.
-3. View the content of that response.
-4. Write that content to a file. 
+1. Download a dataset that is saved as a csv file.
+2. Import the data into python.
+3. Discover the size of the dataset.
+4. Discover the types of data in the dataset. 
 
-<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape1.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=eda1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=eda1.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 
 ## Project #2: Exploring Website Structure and Getting Specific Data from Web Scraping 
