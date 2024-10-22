@@ -21,7 +21,7 @@ Case Western is also building a research data index here: <a href ="link!">COMIN
 
 ## Project #1: Importing Data and Discovering Basic Information
 
-This first project will use basic python and the `pandas` package to introduce the data import process and the early exploration process.  All the lessons on this page use the ______ dataset.  
+This first project will use basic python and the `pandas` package to introduce the data import process and the early exploration process.  All the lessons on this page use this [2014 Census Data](https://raw.githubusercontent.com/LibraryBeales/Exploratory_Data_Analysis/refs/heads/main/adult.csv) dataset.  
 
 In this project you will:
 1. Use the `read_csv` function in pandas to import a csv file.
