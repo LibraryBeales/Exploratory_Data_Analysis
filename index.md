@@ -19,20 +19,19 @@ Librarians are always available to help you locate resources, including datasets
 Case Western is also building a research data index here: <a href ="link!">COMING SOON!</a> 
 
 
-## Project #1: Importing Data and 
+## Project #1: Importing Data and Discovering Basic Information
 
 This first project will use basic python and the `pandas` package to introduce the data import process and the early exploration process.  All the lessons on this page use the ______ dataset.  
 
 In this project you will:
-1. Download a dataset that is saved as a csv file.
-2. Import the data into python.
-3. Discover the size of the dataset.
-4. Discover the types of data in the dataset. 
+1. Use the `read_csv` function in pandas to import a csv file.
+2. Discover the size of the dataset.
+3. Discover the types of data in the dataset. 
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=eda1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=eda1.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 
-## Project #2: Exploring Website Structure and Getting Specific Data from Web Scraping 
+## Project #2: Assessing the Quality and Diversity of the Data
 
 Normally, in a web scraping project, you are looking for specific information.  You don't need to scrape the entire <a href="https://books.toscrape.com/">Books to Scrape</a> page if you are only interested in a list of book titles.  We are going to practice looking at the structure of a web page so we can design a web scraper that only retrieves certain infromation.  Once we understand the way the information we want is tagged and/or organized, we can create rules for the web scraper to follow.  The process of breaking down the parts of the web page to retrieve specific informaiton is frequently referred to as HTML parsing.
 
