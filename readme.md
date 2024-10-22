@@ -1,6 +1,6 @@
-# Digital Scholarship Workshop Series - WORKSHOP TITLE
+# Digital Scholarship Workshop Series - Exploratory Data Analysis with Python
 
-These files support the WORKSHOP TITLE tutorial, which can be found here. https://librarybeales.github.io/WORKSHOPTITLE.  This tutorial is part of a the CWRU Digital Scholarship Workshop Series.  You can find a directory of the currently available tutorials here:  [https://librarybeales.github.io/dsworkshops/](https://librarybeales.github.io/dsworkshops/)
+These files support the Exploratory Data Analysis with Python tutorial, which can be found here. https://librarybeales.github.io/Exploratory_Data_Analysis.  This tutorial is part of a the CWRU Digital Scholarship Workshop Series.  You can find a directory of the currently available tutorials here:  [https://librarybeales.github.io/dsworkshops/](https://librarybeales.github.io/dsworkshops/)
 
 
 ## Run the lesson locally
