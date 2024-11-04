@@ -21,19 +21,20 @@ Case Western is also building a research data index here: <a href ="link!">COMIN
 
 ## Project #1: Importing Data and Discovering Basic Information
 
-This first project will use basic python and the `pandas` package to introduce the data import process and the early exploration process.  All the lessons on this page use this [2014 Census Data](https://raw.githubusercontent.com/LibraryBeales/Exploratory_Data_Analysis/refs/heads/main/adult.csv) dataset.  
+This first lesson will use basic python and the `pandas` package to introduce the data import process and the early exploration process.  All the lessons on this page use this [2014 Census Data](https://raw.githubusercontent.com/LibraryBeales/Exploratory_Data_Analysis/refs/heads/main/adult.csv) dataset.  
 
 In this project you will:
-1. Use the `read_csv` function in pandas to import a csv file.
-2. Discover the size of the dataset.
-3. Discover the types of data in the dataset. 
+1. Learn how to import the necessary python libraries.
+2. Use the `read_csv` function in pandas to import a csv file.
+3. Discover the size of the dataset.
+4. Discover the types of data in the dataset. 
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=eda1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=eda1.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 
-## Project #2: Assessing the Quality and Diversity of the Data
+## Project #2: Data Visualization for Univariate and Bivariate Analysis
 
-Normally, in a web scraping project, you are looking for specific information.  You don't need to scrape the entire <a href="https://books.toscrape.com/">Books to Scrape</a> page if you are only interested in a list of book titles.  We are going to practice looking at the structure of a web page so we can design a web scraper that only retrieves certain infromation.  Once we understand the way the information we want is tagged and/or organized, we can create rules for the web scraper to follow.  The process of breaking down the parts of the web page to retrieve specific informaiton is frequently referred to as HTML parsing.
+In this lesson, you will learn how to identify missing data, outliers, and 
 
 In this project you will:
 1. Use the `Inspect` tool in your web browser to explore the structure of the <a href="https://books.toscrape.com/">Books to Scrape</a> website.
@@ -45,7 +46,7 @@ In this project you will:
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape2.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 
-## Project #3: Scraping sets of related information into CSV files.
+## Project #3: Identify missing data and decide how to handle them.
 
 Build a scraper that collects multiple data points about each book based upon specific criteria.
 
@@ -57,7 +58,7 @@ In this project you will:
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape3.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape3.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
-## Project #4: Scraping data from mulitple pages.
+## Project #4: Identify outliers and decide how to handle them.
 
 In this project you will:
 1. Use the `Inspect` tool to explore how <a href="https://books.toscrape.com/">Books to Scrape</a> handles navigation between pages.
