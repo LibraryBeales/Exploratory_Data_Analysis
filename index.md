@@ -47,7 +47,7 @@ In this project you will:
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape2.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 
-## Project #3: Identify missing data and decide how to handle them.
+## Project #3: Identify missing data and decide how to handle it.
 
 Build a scraper that collects multiple data points about each book based upon specific criteria.
 
