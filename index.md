@@ -28,24 +28,20 @@ In this project you will:
 2. Use the `read_csv` function in pandas to import a csv file.
 3. Discover the size of the dataset.
 4. Discover the types of data in the dataset. 
-5. Learn how to modify data types to improve performance, accuracy and scalability.
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=eda1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=eda1.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
+## Project #2: Understand data types and modify data types to improve performance, accuracy and scalability.
 
-## Project #2: Data Visualization for Univariate and Bivariate Analysis
-
-In this lesson, you will learn how to identify missing data, outliers, and 
+In this lesson, you will learn how to check the data types of the columns in a `pandas` dataframe, how to identify columns that are candidates for more appripriate daat types, and how to modify data types in a `pandas` dataframe.
 
 In this project you will:
-1. Use the `Inspect` tool in your web browser to explore the structure of the <a href="https://books.toscrape.com/">Books to Scrape</a> website.
-2. Understand how book titles on the site are tagged/classified. 
-3. Understand and use a python script to crawl the web page and extract only the data that meets the classification criteria we identified for titles in step 2.
-4. Look at the list of titles we scraped.  Identify problems with the data and explore an alternative strategy of using Beautiful Soup to get the correct titles.
-5. Write the list of correct titles to a file. 
+1. Learn how to view the data types in a `pandas` dataframe.
+2. Learn some new methods for exploring the `pandas` dataframe.
+3. Learn to modify the data type of a single column.
+4. Learn how to modify data types of multiple columns using a threshold.
 
-<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape2.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
-
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=eda2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=eda2.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 ## Project #3: Identify missing data and decide how to handle it.
 
@@ -57,7 +53,7 @@ In this project you will:
 3. Understand and use a python script to crawl the web page and extract only the data that meets the classification criteria we identified in steps 1 and 2.
 4. Write the data to a csv file. 
 
-<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape3.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape3.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=eda3.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=eda3.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 ## Project #4: Identify outliers and decide how to handle them.
 
@@ -67,14 +63,18 @@ In this project you will:
 3. Examine the data to see if our scraper worked the way we think it should.
 4. Write the data to a csv file. 
 
-<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape4.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape4.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=eda4.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=eda4.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
-## Bonus Project: Data Visualization with Plotly.
+
+## Project #5: Data Visualization for Univariate and Bivariate Analysis
+
+In this lesson, you will learn how to identify missing data, outliers, and 
 
 In this project you will:
-1. Examine the csv file we saved from the previous project and determine what values we would like to visualize.  
-2. Look at the <a href="https://plotly.com/python/">Plotly</a> package for Python and determine which kinds of graphs we will could create with the data.  
-3. Understand and use a python script to generate those graphs using the data we scraped from the <a href="https://books.toscrape.com/">Books to Scrape</a> website.
-4. Save those graphs to a file.
+1. 
 
-[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape5.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=eda5.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=eda5.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
+
+
+
+
