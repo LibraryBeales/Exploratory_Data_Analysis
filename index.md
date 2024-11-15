@@ -77,4 +77,13 @@ In this project you will:
 
 
 
+## Project #6: ydata-profiling or, Why did I just learn all that other stuff?!
+
+In this lesson, you will learn how to identify missing data, outliers, and 
+
+In this project you will:
+1. 
+
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=eda6.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=eda6.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
+
 
