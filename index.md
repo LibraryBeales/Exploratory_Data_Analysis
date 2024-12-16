@@ -33,7 +33,7 @@ In this project you will:
 
 ## Project #2: Understand data types and modify data types to improve performance, accuracy and scalability.
 
-In this lesson, you will learn how to check the data types of the columns in a `pandas` dataFrame, how to identify columns that are candidates for more appripriate daat types, and how to modify data types in a `pandas` dataframe.
+In this lesson, you will learn how to check the data types of the columns in a `pandas` data frame, how to identify columns that are candidates for more appripriate daat types, and how to modify data types in a `pandas` dataframe.
 
 In this project you will:
 1. Learn how to view the data types in a `pandas` dataframe.
